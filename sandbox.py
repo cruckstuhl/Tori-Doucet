@@ -6,7 +6,7 @@ print(name, " is ", age, " years old.")
 
 
 # Programming Excercise 1.6
-radius = int(input("Enter the radius: "))
+radius = float(input("Enter the radius: "))
 area = (radius * radius) * 3.14
 
 print("The area is ", area, " square units")
